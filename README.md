@@ -1,6 +1,7 @@
 # What's this repo?
 
 Just a log of the dependencies of my other repo [DecNefSim](https://github.com/AlexOlza/DecNefSim)
+Simply clone this and run `install.sh` and the stuff in DecNefSim **should** work.
 
 ## Expected directory structure
 
