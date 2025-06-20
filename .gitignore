@@ -1,0 +1,12 @@
+# This repo is elsewhere
+DecNefSim/ 
+# To avoid disclosing my PYTHONPATH
+activate_env.sh 
+# Ignore all subdirectories
+*/* 
+# Common output formats
+*.mat
+*.zip
+*.csv
+*.png
+*.pdf
